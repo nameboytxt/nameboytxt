@@ -16,9 +16,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,c,html,css,linux,mint,windows,vscode,linkedin,discord)](https://skillicons.dev)
 
-
-![Nameboytxt GitHub stats](https://github-readme-stats.vercel.app/api?username=nameboytxt&hide=contribs,prs&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nameboytxt&layout=compact&theme=gruvbox)
+![nameboytxt's Stats](https://github-readme-stats.vercel.app/api?username=nameboytxt&theme=algolia&show_icons=true&hide_border=false&count_private=false)
+![nameboytxt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nameboytxt&theme=algolia&show_icons=true&hide_border=false&layout=compact)
 
 
 <div>
