@@ -14,7 +14,7 @@
   </h4>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,c,html,css,linux,mint,windows,vscode,linkedin,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,,html,css,linux,mint,windows,vscode,bootstrap,linkedin,discord)](https://skillicons.dev)
 
 ![nameboytxt's Stats](https://github-readme-stats.vercel.app/api?username=nameboytxt&theme=algolia&show_icons=true&hide_border=false&count_private=false)
 ![nameboytxt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nameboytxt&theme=algolia&show_icons=true&hide_border=false&layout=compact)
