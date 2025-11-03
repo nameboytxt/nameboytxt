@@ -4,7 +4,7 @@
   </h3>
 </div>
 
-- My name is Gabriel, and I'm
+- My name is Miguel, and I'm
 - Learning to like linux
 - Developer beginner
 
